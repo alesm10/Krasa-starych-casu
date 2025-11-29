@@ -1,0 +1,1 @@
+// Tento soubor již není používán. Aplikace byla převedena na čisté HTML v index.html.
